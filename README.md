@@ -13,6 +13,6 @@ HSV Color space model using Openframeworks with mouse control.
 - OSX Mojave
 
 ### Next Plan
-- HSL, YUV, Lab, Color space visualization.
+- RGB, HSL, YUV, Lab, Color space visualization.
 
 
